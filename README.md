@@ -1,4 +1,4 @@
-# flappy_bird 🦜
+# Flappy Bird 🦜
 
 Importância do PyInstaller e do Pygame
 
