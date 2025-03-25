@@ -20,6 +20,6 @@ pip install pygame pyinstaller
 
 Se quiser gerar um executável para distribuir o projeto sem a necessidade do Python instalado, use o PyInstaller:
 
-pyinstaller --onefile --windowed main.py
+pyinstaller --onefile FlappyBird.py
 
 Isso gerará um executável na pasta dist/, que pode ser executado normalmente no sistema operacional.
